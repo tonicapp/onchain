@@ -1,0 +1,40 @@
+{
+    "name": "Kenny Lofton",
+    "symbol": "TSONGTEST",
+    "description": "Song by J. Cole",
+    "seller_fee_basis_points": 1000,
+    "external_url": "https://tonicmusic.tech",
+    "attributes": [
+        {
+            "trait_type": "Genre",
+            "value": "hip-hop"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "J. Cole"
+        },
+        {
+            "trait_type": "Release Date",
+            "value": "2012-02-16"
+        },
+        {
+            "trait_type": "License",
+            "value": "Exclusive"
+        }
+    ],
+    "animation_url": "https://tonic-mp3s-storage.s3.amazonaws.com/Kenny+Lofton.mp3",
+    "image": "https://tonic-song-art-storage.s3.amazonaws.com/Cole-Truly-Yours.jpeg",
+    "properties": {
+        "files": [
+            {
+                "type": "audio/mp3",
+                "uri": "https://tonic-mp3s-storage.s3.amazonaws.com/Kenny+Lofton.mp3"
+            },
+            {
+                "type": "image/png",
+                "uri": "https://tonic-song-art-storage.s3.amazonaws.com/Cole-Truly-Yours.jpeg"
+            }
+        ],
+        "category": "audio"
+    }
+}
